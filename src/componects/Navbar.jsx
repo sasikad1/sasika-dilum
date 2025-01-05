@@ -1,5 +1,5 @@
 import { FaGithub, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
-import logo from "../assets/raviKumarLogo.webp/";
+import logo from "../assets/lo.jpg/";
 
 const Navbar = () => {
     return (
