@@ -1,4 +1,4 @@
-import profilePic from "../assets/sasika11.png"
+import profilePic from "../assets/sasikad.png"
 import {HERO_CONTENT} from "../constants"
 import {motion} from "framer-motion"
 
