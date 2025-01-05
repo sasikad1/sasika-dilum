@@ -74,6 +74,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Gampaha, Western, Sri Lanka",
-  phoneNo: "+94 71 51 56 233",
+  phoneNo: "+94 71 5156 233",
   email: "sasikadilum40@gmail.com",
 };
