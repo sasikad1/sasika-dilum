@@ -1,5 +1,5 @@
 import { FaGithub, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
-import logo from '../assets/sasika1.png';
+import logo from '../assets/sasika.jpg';
 
 const Navbar = () => {
     return (
