@@ -24,4 +24,6 @@ dist-ssr
 *.sw?
 
 ../git_img
+../src.git_img
 /git_img
+/public/sasika-dilum-jDeveloper-cv.pdf
