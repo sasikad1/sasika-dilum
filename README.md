@@ -59,7 +59,7 @@ If you'd like to run the project locally, follow these steps:
 
 ## Deployment
 
-The website is deployed and live at: [https://sasika-dilum.vercel.app/](https://yourwebsite.com)
+The website is deployed and live at: https://sasika-dilum.vercel.app/
 
 ---
 
@@ -81,7 +81,7 @@ Feedback and contributions are welcome! If you encounter any issues or have idea
 ## Contact
 
 Feel free to reach out to me at:
-- **Email**: sasikadilum40@gamil.com(mailto:your-email@example.com)
+- **Email**: sasikadilum40@gamil.com
 - **LinkedIn**: https://www.linkedin.com/in/sasikad/(https://linkedin.com/in/yourprofile)
 - **GitHub**: https://github.com/sasikad1(https://github.com/yourusername)
 
