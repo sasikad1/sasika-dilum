@@ -55,7 +55,7 @@ const Hero = () => {
                         </motion.p>
                         <motion.a 
                             variants={childVariants}
-                            href="/sasika-dilum-jDeveloper-cv.pdf" target="_blank" rel="noopener noreferrer" download className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10">Download Resume
+                            href="/sasika-dilum-jDeveloper1-cv.pdf" target="_blank" rel="noopener noreferrer" download className="bg-white rounded-full p-4 text-sm text-stone-800 mb-10">Request Resume
                         </motion.a>
                     </motion.div>
                 </div>
