@@ -65,18 +65,12 @@ The website is deployed and live at: [https://sasika-dilum.vercel.app/](https://
 
 ## Screenshots
 
-[Add one or more screenshots of your portfolio website to visually showcase it.]
-![Portfolio Screenshot](./screenshot.png)
-
+![Portfolio Screenshot](./src/git_img/portfolio1.png)
+![Portfolio Screenshot](./src/git_img/Screenshot%20from%202025-01-07%2021-38-14.png)
+![Portfolio Screenshot](./src/git_img/Screenshot%20from%202025-01-07%2021-39-02.png)
+![Portfolio Screenshot](./src/git_img/Screenshot%20from%202025-01-07%2021-39-27.png)
 ---
 
-## Future Enhancements
-
-- Add more projects and interactive elements.
-- Implement a blog section.
-- Integrate a backend for advanced features like user authentication or dynamic content.
-
----
 
 ## Feedback and Contributions
 
@@ -87,9 +81,9 @@ Feedback and contributions are welcome! If you encounter any issues or have idea
 ## Contact
 
 Feel free to reach out to me at:
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **Email**: sasikadilum40@gamil.com(mailto:your-email@example.com)
+- **LinkedIn**: https://www.linkedin.com/in/sasikad/(https://linkedin.com/in/yourprofile)
+- **GitHub**: https://github.com/sasikad1(https://github.com/yourusername)
 
 ---
 
