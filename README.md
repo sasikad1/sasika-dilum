@@ -82,8 +82,8 @@ Feedback and contributions are welcome! If you encounter any issues or have idea
 
 Feel free to reach out to me at:
 - **Email**: sasikadilum40@gamil.com
-- **LinkedIn**: https://www.linkedin.com/in/sasikad/(https://linkedin.com/in/yourprofile)
-- **GitHub**: https://github.com/sasikad1(https://github.com/yourusername)
+- **LinkedIn**: https://www.linkedin.com/in/sasikad/
+- **GitHub**: https://github.com/sasikad1
 
 ---
 
