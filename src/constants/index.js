@@ -9,13 +9,11 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "Oct 2020 - April 2021",
-    role: "Web Developer",
-    company: "DilinaBiz (Pvt)Ltd.",
-    description: `I have hands-on experience in website development and updates, regularly testing IT
-systems and technologies, and providing support for software administration tasks, ensuring
-smooth operations and optimal system functionality.`,
-    technologies: ["WordPress", "GTmetrix", "Wordfence", "Yoast SEO"],
+    year: "January 2025 - August 2025",
+    role: "Software Engineer - Intern",
+    company: "IJSE (Pvt)Ltd.",
+    description: `Gained hands-on experience in software development by contributing to real-world projects. Learned industry best practices, improved problem-solving skills, and worked with modern tools and frameworks to deliver efficient solutions.`,
+    technologies: ["Java", "SpringBoot", "React", "GitHub"],
   }
   // ,
   // {
