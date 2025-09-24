@@ -9,11 +9,11 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
   {
-    year: "January 2025 - August 2025",
-    role: "Software Engineer - Intern",
-    company: "IJSE (Pvt)Ltd.",
-    description: `Gained hands-on experience in software development by contributing to real-world projects. Learned industry best practices, improved problem-solving skills, and worked with modern tools and frameworks to deliver efficient solutions.`,
-    technologies: ["Java", "SpringBoot", "React", "GitHub"],
+    // year: "January 2025 - August 2025",
+    // role: "Software Engineer - Intern",
+    // company: "IJSE (Pvt)Ltd.",
+    // description: `Gained hands-on experience in software development by contributing to real-world projects. Learned industry best practices, improved problem-solving skills, and worked with modern tools and frameworks to deliver efficient solutions.`,
+    // technologies: ["Java", "SpringBoot", "React", "GitHub"],
   }
   // ,
   // {
