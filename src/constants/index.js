@@ -7,39 +7,39 @@ export const HERO_CONTENT = `I am a passionate full-stack developer with a knack
 
 export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. I have worked with a variety of technologies, including java, SpringBoot, HTML, CSS, react, and MySQL.I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
-// export const EXPERIENCES = [
-//   {
-//     year: "January 2025 - August 2025",
-//     role: "Software Engineer - Intern",
-//     company: "IJSE (Pvt)Ltd.",
-//     description: `Gained hands-on experience in software development by contributing to real-world projects. Learned industry best practices, improved problem-solving skills, and worked with modern tools and frameworks to deliver efficient solutions.`,
-//     technologies: ["Java", "SpringBoot", "React", "GitHub"],
-//   }
+export const EXPERIENCES = [
+  {
+    year: "January 2025 - August 2025",
+    role: "Software Engineer - Intern",
+    company: "IJSE (Pvt)Ltd.",
+    description: `Gained hands-on experience in software development by contributing to real-world projects. Learned industry best practices, improved problem-solving skills, and worked with modern tools and frameworks to deliver efficient solutions.`,
+    technologies: ["Java", "SpringBoot", "React", "GitHub"],
+  }
 
 
-//   ,
-//   {
-//     year: "2022 - 2023",
-//     role: "Frontend Developer",
-//     company: "Adobe",
-//     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-//     technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-//   },
-//   {
-//     year: "2021 - 2022",
-//     role: "Full Stack Developer",
-//     company: "Facebook",
-//     description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-//     technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-//   },
-//   {
-//     year: "2020 - 2021",
-//     role: "Software Engineer",
-//     company: "Paypal",
-//     description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-//     technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
-//   },
-// ];
+  ,
+  {
+    year: "2022 - 2023",
+    role: "Frontend Developer",
+    company: "Adobe",
+    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
+    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+  },
+  {
+    year: "2021 - 2022",
+    role: "Full Stack Developer",
+    company: "Facebook",
+    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
+    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+  },
+  {
+    year: "2020 - 2021",
+    role: "Software Engineer",
+    company: "Paypal",
+    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
+    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+  },
+];
 
 export const PROJECTS = [
   {
